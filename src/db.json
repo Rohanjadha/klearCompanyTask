@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": "dca7",
+      "name": "Rohan",
+      "email": "sameer@test.com",
+      "password": "Rohan@123"
+    },
+    {
+      "id": "df2e",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "Peter@123"
+    },
+    {
+      "id": "f141",
+      "name": "sam",
+      "email": "sam@test.com",
+      "password": "Sam@123"
+    },
+    {
+      "id": "24f4",
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "password": "Andand@123"
+    },
+    {
+      "id": "670c",
+      "name": "sanjay",
+      "email": "sanjay@gmail.com",
+      "password": "sanjay@123"
+    },
+    {
+      "id": "824e",
+      "name": "adesh",
+      "email": "adhesh@gmail.com",
+      "password": "Adhesh@123"
+    },
+    {
+      "id": "3d4a",
+      "name": "iphone",
+      "email": "rohan@123Gmail.com",
+      "password": "1221"
+    },
+    {
+      "id": "6f3a",
+      "name": "santosh",
+      "email": "Rohan@gmail.com",
+      "password": "Rohan@123"
+    }
+  ]
+}
